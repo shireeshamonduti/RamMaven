@@ -30,7 +30,7 @@
 	
 	<distributionManagement>
 		<repository>
-		<id>SERVER_ID</id>
+		<id>Nexus3.1.6</id>
 		<url>http://localhost:8081/nexus/snapshot</url>
 		</repository>
 	</distributionManagement>
